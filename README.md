@@ -1,5 +1,5 @@
 # deep-learning-for-tag-recommendation-
-this is the collection for the papers and codes for tag recommendation
+this is the collection for the papers and codes for tag/hashtag recommendation
 
 # 2017
 
@@ -34,7 +34,7 @@ this is the collection for the papers and codes for tag recommendation
 - [Tweet modeling with LSTM recurrent neural networks for hashtag recommendation](http://ieeexplore.ieee.org/document/7727385/)
 
 # datasets
-[HARRISON: A Benchmark on HAshtag Recommendation for Real-world Images in Social Networks](https://arxiv.org/abs/1605.05054)
+- [HARRISON: A Benchmark on HAshtag Recommendation for Real-world Images in Social Networks](https://arxiv.org/abs/1605.05054)
 
 # reference 
 [献给写作者的 Markdown 新手指南][1]
