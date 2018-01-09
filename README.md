@@ -32,6 +32,12 @@ this is the collection for the papers and codes for tag/hashtag recommendation
 - [Hashtag Recommendation with Topical Attention-Based LSTM](http://aclweb.org/anthology/C/C16/C16-1284.pdf)
 ## IJCNN 2016
 - [Tweet modeling with LSTM recurrent neural networks for hashtag recommendation](http://ieeexplore.ieee.org/document/7727385/)
+##  CIKM 2016
+- [Tag-Aware Personalized Recommendation Using a Deep-Semantic Similarity Model with Negative Sampling](https://dl.acm.org/citation.cfm?doid=2983323.2983874)
+
+# 2014
+##  ICACCI 2014
+- [Towards Twitter hashtag recommendation using distributed word representations and a deep feed forward neural network](http://ieeexplore.ieee.org/document/6968557/?arnumber=6968557&tag=1)
 
 # datasets
 - [HARRISON: A Benchmark on HAshtag Recommendation for Real-world Images in Social Networks](https://arxiv.org/abs/1605.05054)
