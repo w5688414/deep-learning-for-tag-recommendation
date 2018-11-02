@@ -1,5 +1,15 @@
 # deep-learning-for-tag-recommendation-
 this is the collection for the papers and codes for tag/hashtag recommendation
+# 2018
+## IJCAI 2018
+- [Hashtag2Vec: Learning Hashtag Representation with Relational Hierarchical Embedding Model](https://www.ijcai.org/proceedings/2018/480)
+
+## ICSE (Companion Volume) 2018
+- [Semantically enhanced tag recommendation for software CQAs via deep learning](https://dl.acm.org/citation.cfm?doid=3183440.3194977)
+## Journal of Computer Science and Technology
+- [Hashtag Recommendation Based on Multi-Features of Microblogs](https://link.springer.com/article/10.1007%2Fs11390-018-1851-2)
+## BDCA 2018
+- [Hashtag Recommendation Using Word Sequences' Embeddings](https://link.springer.com/chapter/10.1007%2F978-3-319-96292-4_11)
 
 # 2017
 
