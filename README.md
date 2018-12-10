@@ -1,4 +1,4 @@
-# deep-learning-for-tag-recommendation-
+# deep-learning-for-tag-recommendation
 this is the collection for the papers and codes for tag/hashtag recommendation
 # 2018
 ## IJCAI 2018
