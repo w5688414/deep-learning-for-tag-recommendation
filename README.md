@@ -1,5 +1,11 @@
 # deep-learning-for-tag-recommendation
 this is the collection for the papers and codes for tag/hashtag recommendation
+
+# 2019
+
+## Neurocomputing
+- [Topical Co-Attention Networks for hashtag recommendation on microblogs](https://www.sciencedirect.com/science/article/pii/S0925231218314012?via%3Dihub)
+
 # 2018
 ## ICSE (Companion Volume) 2018
 - [Semantically enhanced tag recommendation for software CQAs via deep learning](https://dl.acm.org/citation.cfm?doid=3183440.3194977)
