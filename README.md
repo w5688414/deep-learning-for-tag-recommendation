@@ -3,6 +3,9 @@ this is the collection for the papers and codes for tag/hashtag recommendation
 
 # 2019
 
+## PAKDD (2) 2019
+- [An Efficient and Resource-Aware Hashtag Recommendation Using Deep Neural Networks](https://link.springer.com/chapter/10.1007%2F978-3-030-16145-3_12)
+
 ## Neurocomputing
 - [Topical Co-Attention Networks for hashtag recommendation on microblogs](https://www.sciencedirect.com/science/article/pii/S0925231218314012?via%3Dihub)
 
