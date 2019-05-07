@@ -3,6 +3,16 @@ this is the collection for the papers and codes for tag/hashtag recommendation
 
 # 2019
 
+## ECIR (2) 2019
+- [DeepTagRec: A Content-cum-User Based Tag Recommendation Framework for Stack Overflow](https://link.springer.com/chapter/10.1007%2F978-3-030-15719-7_16)
+
+## DASFAA  2019
+- [Attention-Based Neural Tag Recommendation](https://link.springer.com/chapter/10.1007%2F978-3-030-18579-4_21)
+- [Tag Recommendation by Word-Level Tag Sequence Modeling](https://link.springer.com/chapter/10.1007%2F978-3-030-18590-9_58)
+
+##  Information & Software Technology 109
+- [Is deep learning better than traditional approaches in tag recommendation for software information sites?](https://www.sciencedirect.com/science/article/pii/S0950584919300047?via%3Dihub)
+
 ## PAKDD (2) 2019
 - [An Efficient and Resource-Aware Hashtag Recommendation Using Deep Neural Networks](https://link.springer.com/chapter/10.1007%2F978-3-030-16145-3_12)
 
