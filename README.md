@@ -3,6 +3,15 @@ this is the collection for the papers and codes for tag/hashtag recommendation
 
 # 2019
 
+### Information
+- [Learning Improved Semantic Representations with Tree-Structured LSTM for Hashtag Recommendation: An Experimental Study](https://www.mdpi.com/2078-2489/10/4/127)
+
+### AAAI 2019
+- [Hashtag Recommendation for Photo Sharing Services](https://aimagazine.org/ojs/index.php/AAAI/article/view/4528)
+
+## NLPCC 2019
+- [Model the Long-Term Post History for Hashtag Recommendation](https://link.springer.com/chapter/10.1007%2F978-3-030-32233-5_46)
+
 ## ECIR (2) 2019
 - [DeepTagRec: A Content-cum-User Based Tag Recommendation Framework for Stack Overflow](https://link.springer.com/chapter/10.1007%2F978-3-030-15719-7_16)
 
