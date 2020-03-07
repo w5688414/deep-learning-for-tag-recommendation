@@ -3,7 +3,7 @@ this is the collection for the papers and codes for tag/hashtag recommendation
 
 # 2019
 
-### EEE Transactions on Knowledge and Data Engineering 
+### IEEE Transactions on Knowledge and Data Engineering 
 
 - [Co-attention Memory Network for Multimodal Microblog's Hashtag Recommendation](https://ieeexplore.ieee.org/abstract/document/8784219)
 
