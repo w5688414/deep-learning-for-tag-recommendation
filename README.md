@@ -3,6 +3,19 @@ this is the collection for the papers and codes for tag/hashtag recommendation
 
 # 2019
 
+### EEE Transactions on Knowledge and Data Engineering 
+
+- [Co-attention Memory Network for Multimodal Microblog's Hashtag Recommendation](https://ieeexplore.ieee.org/abstract/document/8784219)
+
+### CIKM 2019
+
+- [Long-tail Hashtag Recommendation for Micro-videos with Graph Convolutional Network](https://dl.acm.org/doi/10.1145/3357384.3357912)
+
+### CCL 2019
+
+- [Modeling the Long-Term Post History for Personalized Hashtag Recommendation](https://link.springer.com/chapter/10.1007%2F978-3-030-32381-3_40)
+
+
 ### Information
 - [Learning Improved Semantic Representations with Tree-Structured LSTM for Hashtag Recommendation: An Experimental Study](https://www.mdpi.com/2078-2489/10/4/127)
 
