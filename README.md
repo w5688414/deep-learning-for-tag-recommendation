@@ -7,7 +7,7 @@ this is the collection for the papers and codes for tag/hashtag recommendation
 - [Sentiment Enhanced Multi-Modal Hashtag Recommendation for Micro-Videos](https://ieeexplore.ieee.org/document/9076071)
 
 ###  IEEE Trans. Comput. Soc. Syst
--[AMNN: Attention-Based Multimodal Neural Network Model for Hashtag Recommendation](https://ieeexplore.ieee.org/document/9082813)
+- [AMNN: Attention-Based Multimodal Neural Network Model for Hashtag Recommendation](https://ieeexplore.ieee.org/document/9082813)
 
 ###  WWW 2020
 - [Weakly Supervised Attention for Hashtag Recommendation using Graph Data](https://dl.acm.org/doi/10.1145/3366423.3380182)
