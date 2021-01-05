@@ -1,6 +1,31 @@
 # deep-learning-for-tag-recommendation
 this is the collection for the papers and codes for tag/hashtag recommendation
 
+# 2020
+
+### IEEE Access 8
+- [Sentiment Enhanced Multi-Modal Hashtag Recommendation for Micro-Videos](https://ieeexplore.ieee.org/document/9076071)
+
+###  IEEE Trans. Comput. Soc. Syst
+-[AMNN: Attention-Based Multimodal Neural Network Model for Hashtag Recommendation](https://ieeexplore.ieee.org/document/9082813)
+
+###  WWW 2020
+- [Weakly Supervised Attention for Hashtag Recommendation using Graph Data](https://dl.acm.org/doi/10.1145/3366423.3380182)
+
+###  ICME 2020
+- [User Conditional Hashtag Recommendation for Micro-Videos](https://ieeexplore.ieee.org/document/9102824)
+
+###  Knowl. Based Syst. 203
+- [Hashtag our stories: Hashtag recommendation for micro-videos via harnessing multiple modalities](https://www.sciencedirect.com/science/article/abs/pii/S0950705120303798?via%3Dihub)
+
+### Knowledge and Information Systems 2020
+- [Hashtag recommendation for short social media texts using word-embeddings and external knowledge](https://link.springer.com/article/10.1007/s10115-020-01515-7)
+
+### arxiv
+
+- [A Sequence-Oblivious Generation Method for Context-Aware Hashtag Recommendation](https://arxiv.org/abs/2012.02957)
+
+
 # 2019
 
 ### IEEE Transactions on Knowledge and Data Engineering 
