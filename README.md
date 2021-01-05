@@ -21,6 +21,15 @@ this is the collection for the papers and codes for tag/hashtag recommendation
 ### Knowledge and Information Systems 2020
 - [Hashtag recommendation for short social media texts using word-embeddings and external knowledge](https://link.springer.com/article/10.1007/s10115-020-01515-7)
 
+### Expert Systems with Applications
+- [Hybrid microblog recommendation with heterogeneous features using deep neural network](https://www.sciencedirect.com/science/article/abs/pii/S0957417420309246)
+
+###  The Journal of the Korea institute of electronic communication sciences
+- [Design and Implementation of Hashtag Recommendation System Based on Image Label Extraction using Deep Learning](https://www.koreascience.or.kr/article/JAKO202024063317094.page)
+
+### Entropy
+- [Image Hashtag Recommendations Using a Voting Deep Neural Network and Associative Rules Mining Approach](https://www.mdpi.com/1099-4300/22/12/1351)
+
 ### arxiv
 
 - [A Sequence-Oblivious Generation Method for Context-Aware Hashtag Recommendation](https://arxiv.org/abs/2012.02957)
