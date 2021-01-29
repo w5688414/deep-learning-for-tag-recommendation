@@ -1,7 +1,24 @@
 # deep-learning-for-tag-recommendation
 this is the collection for the papers and codes for tag/hashtag recommendation
 
+# Survey
+
+### FRUCT, 2020
+- [A Survey on Hashtag Recommendations](https://fruct.org/publications/acm27/files/Jai.pdf)
+
+# 2021
+
+###  IEEE Trans. Knowl. Data Eng. 33(2): 388-400 (2021)
+- [Co-Attention Memory Network for Multimodal Microblog's Hashtag Recommendation](https://ieeexplore.ieee.org/document/8784219/)
+
+
 # 2020
+
+### Knowledge and Information Systems (2020)
+- [Hashtag recommendation for short social media texts using word-embeddings and external knowledge](https://link.springer.com/article/10.1007/s10115-020-01515-7)
+
+###  2020 6th International Conference on Web Research (ICWR)
+- [EmHash: Hashtag Recommendation using Neural Network based on BERT Embedding](https://ieeexplore.ieee.org/abstract/document/9122275)
 
 ### IEEE Access 8
 - [Sentiment Enhanced Multi-Modal Hashtag Recommendation for Micro-Videos](https://ieeexplore.ieee.org/document/9076071)
