@@ -6,10 +6,22 @@ this is the collection for the papers and codes for tag/hashtag recommendation
 ### FRUCT, 2020
 - [A Survey on Hashtag Recommendations](https://fruct.org/publications/acm27/files/Jai.pdf)
 
+### Future Internet, 2021
+
+- [Hashtag Recommendation Methods for Twitter and Sina Weibo: A Review](https://www.mdpi.com/1999-5903/13/5/129/htm)
+
+
 # 2021
 
 ###  IEEE Trans. Knowl. Data Eng. 33(2): 388-400 (2021)
 - [Co-Attention Memory Network for Multimodal Microblog's Hashtag Recommendation](https://ieeexplore.ieee.org/document/8784219/)
+
+### IEEE Transactions on Circuits and Systems for Video Technology
+-[TAGNet: Triplet-Attention Graph Networks for Hashtag Recommendation](https://ieeexplore.ieee.org/abstract/document/9409169)
+
+### arXiv:2102.00904
+-[Text-to-hashtag Generation using Seq2seq Learning](https://arxiv.org/abs/2102.00904)
+
 
 
 # 2020
